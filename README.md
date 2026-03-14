@@ -103,7 +103,6 @@ train_model(model,train_loader,criterion,optimizer,epochs=100)
 
 ### New Sample Data Prediction
 
-<img width="422" height="103" alt="image" src="https://github.com/user-attachments/assets/0f59e956-8e37-42be-909c-e74b77ab36c1" />
 
 ## RESULT
 This program has been executed successfully.
