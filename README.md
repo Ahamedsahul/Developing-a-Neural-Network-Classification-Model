@@ -100,7 +100,7 @@ train_model(model,train_loader,criterion,optimizer,epochs=100)
 
 ## Classification Report
 
-<img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/e4a6d4e2-2a9e-40a3-9b84-4b84b3330da6" />
+
 ### New Sample Data Prediction
 
 
